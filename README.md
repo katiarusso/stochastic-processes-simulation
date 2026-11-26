@@ -15,3 +15,6 @@ This repository studies associative memory in the Hopfield model:
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+The project notebook credits Katia Russo and Matteo Colantoni as joint authors.
